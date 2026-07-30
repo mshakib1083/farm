@@ -69,9 +69,9 @@ significant block of the 48-bit adder, are hardwired to the exact carry.
 The all-zeros configuration therefore coincides with FARM-V1 rather than
 with an unconstrained maximum.
 
-## Licence
+## License
 
-Released under the MIT Licence. See `LICENSE`.
+Released under the MIT License. See [`LICENSE`](LICENSE).
 
 ## Citation
 
