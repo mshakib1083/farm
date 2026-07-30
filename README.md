@@ -75,5 +75,5 @@ Released under the MIT License. See [`LICENSE`](LICENSE).
 
 ## Citation
 
-If you use this artifact, please cite the paper. A `CITATION.cff` is
-provided for GitHub's citation widget.
+If you use this artifact, please cite the paper. A [`CITATION.cff`](CITATION.cff) is
+provided.
