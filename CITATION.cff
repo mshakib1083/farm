@@ -1,1 +1,15 @@
-
+cff-version: 1.2.0
+message: "If you use this artifact, please cite it as below."
+authors:
+  - family-names: "Hossain"
+    given-names: "Md. Shakib"
+  - family-names: "Salim"
+    given-names: "Kawsain Bin"
+  - family-names: "Ikfat"
+    given-names: "Mushfika"
+  - family-names: "Turjo"
+    given-names: "Zulkar Naaen"
+title: "A 45 nm ASIC Realization of an Accuracy-Configurable Fast Approximate Recursive Multiplier: From Reconfigurable RTL to DRC-Clean Layout"
+version: 1.0.0
+doi: 10.5281/zenodo.21710829
+date-released: 2026-07-31
