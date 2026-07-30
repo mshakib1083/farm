@@ -22,8 +22,8 @@ characterization reported in the paper.
 
 ## Requirements
 
-- Icarus Verilog (or any Verilog-2001 simulator)
-- Python 3.8+ with NumPy
+- Verilog simulator
+- Python
 
 Nothing else. No EDA licence is needed for the reproduction path.
 
